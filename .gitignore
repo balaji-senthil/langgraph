@@ -224,3 +224,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+cookbook/email-agent/credentials.json
+cookbook/email-agent/token.json
